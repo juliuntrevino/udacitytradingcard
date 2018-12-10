@@ -1,0 +1,44 @@
+.name-of-animal{
+  border:1px solid black;
+  background-image:url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/2474621/snowbackground.jpg);
+  height:430px;
+  width:330px;
+  padding:8px;
+  box-shadow: 10px 10px 5px grey;
+  }
+
+img{
+  border:1px solid black;
+  
+}
+p{
+  height:20px;
+  width:300px;
+  margin:-5px;
+  color:red;
+}
+h3{
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black ;
+  
+}
+
+ul{
+  list-style-position:inside;
+  list-style:none;
+  color:white;
+ padding:1px;
+  margin:20px;
+  
+}
+
+.container{
+  border:1px solid black;
+  margin:1px;
+  padding:1px;
+  width:320px;
+  height:165px;
+  color:white;
+  
+  
+}
