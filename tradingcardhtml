@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>The polar bear</title>
+<link rel="stylesheet" type="text/css" href="tradingcardstylesheet.css">
+</head>
+<body>
+<center>
+<div class="name-of-animal">
+  <h3>The Polar Bear</h3>
+<img src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/2474621/polarbearcard.jpg' alt='polarbear'>
+ <div class="container">
+   <p><em>"Evolved from the brown or grizzly
+     bear 100,000 years ago"</em></p>
+   
+<ul>
+  
+  <li><strong>Scientific Name</strong>:Ursus maritimus</li>
+  <li><strong>Average Length</strong>:7-9 feet long.</li>
+  <li><strong>Average Lifespan</strong>:25-32 years</li>
+  <li><strong>Habitat</strong>:Artic</li>
+
+</ul>
+   
+   <p>"Polar bears are marine mammals, and spend much of their time on Arctic sea ice."</p>
+ </div>
+
+</div>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
